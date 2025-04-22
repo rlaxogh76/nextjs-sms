@@ -37,4 +37,9 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 481026d (Initial commit from Create Next App)
+>>>>>>> 481026d (Initial commit from Create Next App
+
+# ✍️ TODO || 25.4.22
+> NextJs DB 연결하기
+> 로그인 회원가입 구현
+> 로그인 성공 및 버그 수정
