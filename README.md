@@ -40,6 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 >>>>>>> 481026d (Initial commit from Create Next App
 
 # ✍️ TODO || 25.4.22
-> NextJs DB 연결하기
-> 로그인 회원가입 구현
+> NextJs DB 연결하기<br>
+> 로그인 회원가입 구현<br>
 > 로그인 성공 및 버그 수정
